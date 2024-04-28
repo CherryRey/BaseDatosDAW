@@ -1,5 +1,7 @@
 /*TAREA UT07. Uso de bases de datos objeto-relacionales.
 Alumno: Cherry Reynoso Catalán
+Profesor: Valentín Rebollada Casado.
+FP A Distancia DAW
 */
 
 /* Conforme vamos haciendo los ejercicios, usamos DROP al principio de este script
